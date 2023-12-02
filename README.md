@@ -3,7 +3,7 @@
 
 - 📫 Gmail: **mostafa.mohamed.aboali76@gmail.com**
 
-- CV: [https://drive.google.com/file/d/12g7akjjOcgbSB-uBdAogae_48GKT3V63/view?usp=drive_link](https://drive.google.com/file/d/12g7akjjOcgbSB-uBdAogae_48GKT3V63/view?usp=drive_link)
+- CV: [https://drive.google.com/file/d/12g7akjjOcgbSB-uBdAogae_48GKT3V63/view?usp=drive_link](https://drive.google.com/file/d/1f_s0El9EE2JW-x2DgUBiK7QiytxzLdkG/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
