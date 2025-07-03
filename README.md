@@ -1,9 +1,11 @@
 <div align="center">
   <h1>Hi 👋, I'm Mostafa Mohamed</h1>
-  <h3>Backend Node.js Developer</h3>
+  <h3>Backend Developer</h3>
 
-  <p>Back-End developer with experience in developing, and deploying web applications Proven ability to work
-        independently and as part of a team, and to meet deadlines and deliver high-quality work. Strong problem-solving and analytical skills..</p>
+  <p>Back-End Developer with solid experience in designing, developing, and deploying scalable web applications using
+ Node.js (JavaScript), Laravel (PHP), and Java Spring Boot. Proficient in building robust server-side architectures,
+ developing and integrating RESTful APIs, and optimizing database and system performance. Skilled in working with both
+ relational and NoSQL databases.</p>
 
   <h3>Connect with me:</h3>
   <p>
