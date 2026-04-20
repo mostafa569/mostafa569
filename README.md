@@ -40,7 +40,7 @@
 
 #### 👨‍💻 Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,php,laravel,spring" />
+<img src="https://skillicons.dev/icons?i=nodejs,php,laravel" />
 </p>
 
 #### 🗄️ Databases
