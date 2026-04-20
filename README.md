@@ -1,93 +1,108 @@
 <div align="center">
-  <h1>Hi 👋, I'm Mostafa Mohamed</h1>
-  <h3>Backend Developer</h3>
 
-  <p>Back-End Developer with solid experience in designing, developing, and deploying scalable web applications using
- Node.js (JavaScript), Laravel (PHP), and Java Spring Boot. Proficient in building robust server-side architectures,
- developing and integrating RESTful APIs, and optimizing database and system performance. Skilled in working with both
- relational and NoSQL databases.</p>
+# 👋 Hi, I'm Mostafa Mohamed  
+### 🚀 Backend Developer
 
-  <h3>Connect with me:</h3>
-  <p>
-    <a href="https://www.linkedin.com/in/mostafa-aboali/" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-    </a>
-    <a href="https://fb.com/mostafa.aboali.180/" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-    </a>
-    <a href="https://wa.me/+201021954635" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
-    </a>
-  </p>
+<p>
+  Passionate Back-End Developer specializing in building scalable, high-performance web applications.<br>
+  I work mainly with <b>Node.js, and Laravel </b> to design clean architectures and robust APIs.
+</p>
 
-  <h3>Languages and Tools:</h3>
-  <p>
-    <a href="https://www.w3schools.com/cpp/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-    </a>
-    <a href="https://firebase.google.com/" target="_blank">
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" />
-    </a>
-    <a href="https://git-scm.com/" target="_blank">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-    </a>
-    <a href="https://graphql.org" target="_blank">
-      <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40" />
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
-    </a>
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="40" height="40" />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-    </a>
-    <a href="https://nodejs.org" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-    </a>
-    <a href="https://www.postgresql.org" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
-    </a>
-    <a href="https://redis.io" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40" />
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
-    </a>
-  </p>
+---
 
-  <h3>Projects:</h3>
-  <ul align="left">
-    <li>
-      <strong>Metro Guide</strong> - An integrated mobile and web-based application designed to modernize and enhance the operations of a metropolitan transit system. It includes features like user registration, ticketing, subscription management, payment processing, and an admin dashboard. 
-      <a href="https://github.com/mostafa569/Metro_Online" target="_blank">View Project</a>
-    </li>
-    <li>
-      <strong>Library Management System</strong> - A project for managing books, borrowers, and librarians effectively. It features a clean and user-friendly interface. 
-      <a href="https://github.com/mostafa569/mostafa569-mostafa569-mostafa569.github.io" target="_blank">View Project</a>
-    </li>
-    <li>
-      <strong>Faculty Management System</strong> - A robust application for managing faculty details, assignments, and records efficiently. 
-      <a href="https://github.com/mostafa569/Sooooooooft" target="_blank">View Project</a>
-    </li>
-  </ul>
+### 🌐 Connect with Me
+<p>
+  <a href="https://www.linkedin.com/in/mostafa-aboali/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://fb.com/mostafa.aboali.180/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook" />
+  </a>
+  <a href="https://wa.me/+201021954635" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp" />
+  </a>
+</p>
 
-  <h3>Certificates:</h3>
-  <ul align="left">
-    <li><strong>Backend Node.js Developer</strong> - Mym Company</li>
-    <li><strong>Introduction to Web Development</strong> - ITI</li>
-    <li><strong>Web Development Using PHP</strong> - ITI</li>
-    <li><strong>Flutter Development</strong> - Creativa</li>
-    <li><strong>International Collegiate Programming Contest (ICPC)</strong> - Participant</li>
-  </ul>
+---
+
+### 🧠 About Me
+</div>
+
+- 💼 Backend Developer with **2+ years experience**
+- ⚙️ Strong in **REST APIs, System Design, and Performance Optimization**
+- 🗄️ Experienced with **SQL & NoSQL databases**
+- 🔐 Focused on **authentication, security, and scalable systems**
+- 📱 Built real-world systems like **Metro Guide (QR-based ticketing system)**
+
+---
+
+### ⚒️ Tech Stack
+
+#### 👨‍💻 Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,php,laravel,spring" />
+</p>
+
+#### 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
+</p>
+
+#### 🌐 Frontend & Others
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,git,firebase" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+#### 🚇 Metro Guide
+> Smart transportation system using QR tickets and subscriptions
+
+- 📱 Mobile App + Web Dashboard  
+- 💳 Integrated Payment Gateway  
+- 🔐 JWT Authentication  
+- 📊 Admin System for subscriptions  
+
+🔗 https://github.com/mostafa569/Metro_Online  
+
+---
+
+#### 📚 Library Management System
+> Manage books, users, and borrowing operations efficiently
+
+🔗 https://github.com/mostafa569/mostafa569-mostafa569-mostafa569.github.io  
+
+---
+
+#### 🏫 Faculty Management System
+> System for managing faculty data, assignments, and workflows
+
+🔗 https://github.com/mostafa569/Sooooooooft  
+
+---
+
+### 📜 Certifications
+
+- 🎓 Backend Node.js Developer 
+- 🎓 Web Development (PHP) — ITI  
+- 🎓 Introduction to Web Development — ITI 
+- 🧠 ICPC Participant  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mostafa569&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa569&theme=radical" height="180"/>
+</p>
+
+---
+
+<div align="center">
+
+### ✨ "Building scalable systems is not just coding… it's engineering."
+
 </div>
